@@ -1,4 +1,5 @@
 # 📝 Minimalist Blog App
+https://dcwithincenter.vercel.app/
 
 A simple **React + TypeScript blog application** with authentication, CRUD operations, and Supabase backend. The app features a clean and minimalist UI built with **Tailwind CSS**.
 
